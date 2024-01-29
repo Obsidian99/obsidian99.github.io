@@ -1,9 +1,7 @@
 const text = document.querySelector('.trm-typed-text');
 
 const words = [
-  "UI/UX Designer",
-  "Web Developer",
-  "Photographer",
+  "Quality guy",
   "Dreamer :)"
 ];
 
@@ -78,9 +76,7 @@ document.addEventListener("swup:contentReplaced", function() {
   const text = document.querySelector('.trm-typed-text');
 
   const words = [
-    "UI/UX Designer",
-    "Web Developer",
-    "Photographer",
+    "Quality guy",
     "Dreamer :)"
   ];
 
