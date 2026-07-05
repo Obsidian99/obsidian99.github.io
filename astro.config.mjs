@@ -8,7 +8,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 import robotsTxt from "astro-robots-txt";
 
-// https://astro.build/config
+https://obsidian99.github.io
 export default defineConfig({
   prefetch: true,
   site: SITE_METADATA.siteUrl,
