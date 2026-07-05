@@ -92,6 +92,6 @@ export const POST_METADATA = {
   showAuthors: true, // Show authors in blog post, TODO: Add support for hiding authors
   showRelatedPosts: true, // Show related posts in blog post, TODO: Add support for hiding related posts
   showTableOfContents: true, // Show table of contents in blog post
-  showShareButtons: 'both', // Show share buttons in blog post, options: top, bottom, both, none
-  showComments: true, // Show comments section in blog post
+  showShareButtons: 'bottom', // Show share buttons in blog post, options: top, bottom, both, none
+  showComments: false, // Show comments section in blog post
 };
