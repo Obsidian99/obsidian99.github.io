@@ -11,7 +11,7 @@ import robotsTxt from "astro-robots-txt";
 // https://astro.build/config
 export default defineConfig({
   prefetch: true,
-  site: 'https://obsidian99.github.io',
+  site: SITE_METADATA.https://obsidian99.github.io,
   image: {
     service: passthroughImageService(),
   },
